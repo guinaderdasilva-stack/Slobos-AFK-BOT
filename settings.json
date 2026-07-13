@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Patolino236.aternos.me",
+    "ip": "dragonet.aternos.host:25575",
     "port": 25575,
     "version": "1.21.1"
   },
